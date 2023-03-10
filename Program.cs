@@ -7,7 +7,11 @@
         Console.WriteLine(res);
 
         Console.WriteLine("Kraj!");
+<<<<<<< HEAD
         Console.WriteLine("Kraj33!");
+=======
+        Console.WriteLine("Kraj!");
+>>>>>>> test
     
     }
 
