@@ -7,12 +7,13 @@
         Console.WriteLine(res);
 
         Console.WriteLine("Kraj!");
-<<<<<<< HEAD
         Console.WriteLine("Kraj33!");
-=======
         Console.WriteLine("Kraj!");
->>>>>>> test
     
+    }
+
+    static void Hello(){
+        Console.WriteLine("hello world!");
     }
 
 }
