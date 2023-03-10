@@ -5,6 +5,8 @@
         string[] data = Calculator.getInputData();
         int res = Calculator.Calculate(data);
         Console.WriteLine(res);
+
+        Console.WriteLine("Kraj!");
     }
 
 }
