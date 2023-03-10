@@ -7,6 +7,8 @@
         Console.WriteLine(res);
 
         Console.WriteLine("Kraj!");
+        Console.WriteLine("Kraj!");
+    
     }
 
 }
